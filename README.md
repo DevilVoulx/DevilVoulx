@@ -27,3 +27,7 @@ Tem que ver isso dai
 <p align="center">
   <img src="http://skillicons.dev/icons?i=linux, azure, windows, aws, grafana, html, cs, mysql, css, gamemakerstudio">
 </p>
+
+<!--p align="center">
+  
+</p>
