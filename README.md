@@ -3,6 +3,7 @@
 </h1>
 -->
 
+<body>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=35&pause=1000&color=D71E1ED7&center=true&vCenter=true&width=500&lines=Programer+%7C+IT">
 </p>
@@ -50,3 +51,4 @@ Tem que ver isso dai
 |||
 
 -->
+</body>
