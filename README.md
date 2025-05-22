@@ -23,6 +23,8 @@ Tem que ver isso dai
 
 <br>
 
+<br>
+
 ## Tech Stack
 <p align="center">
   <img src="http://skillicons.dev/icons?i=linux, azure, windows, aws, grafana, html, cs, mysql, css, gamemakerstudio">
