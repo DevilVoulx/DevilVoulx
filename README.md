@@ -15,6 +15,10 @@
 <img align="right" height="250" width="250" src="https://static.wikia.nocookie.net/megamitensei/images/0/02/P5R_Trophy_01.png/revision/latest?cb=20200427181813">
 Fiz programa de jogo utilizando GML, sites em HTML5(Com implantações de CSS, PHP e MariaDB), sistemas de AWS e Azure(simulações de ambientes de produções), buscando a fluência em inglês 
 
+Let's start again...
+
+I've made quite amount of projects being the programmer on some institutions as Senai and Etec, some of them are in GML, HTML 5(with CSS, PHP MariaDB), JavaScript, C#, C++ and maybe more... I don't remember everything
+
 
 <br>
 <br>
