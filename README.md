@@ -24,7 +24,7 @@ Fiz programa de jogo utilizando GML, sites em HTML5(Com implantações de CSS, P
 <br>
 
 
-**'Enterre a luz profundamente em si e deixe seus espinhos internos te acalmarem' - Cesar,Pedro**
+**'Beyond the jouney you have taken lies the absolute end... It's matters not who you are, one thing is always certain: Death awaits all**
 <br>
 
 ## Tech Stack
